@@ -1,8 +1,8 @@
-page_title: Designing for Data Literacy Learners
+page_title: Designing Tools and Activities for Data Literacy Learners
 
 page_description: academic paper
 
-title: Designing Tools and Activities for Data Literacy Learners
+title: Designing for Data Literacy Learners
 
 date: June 2015
 
