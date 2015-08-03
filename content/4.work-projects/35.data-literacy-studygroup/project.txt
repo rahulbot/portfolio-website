@@ -15,12 +15,10 @@ The goal of this study group is to build a network of educators and practitioner
 </p>
 <p>
 Read the blog posts:
-<ul>
-<li><a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_intro">An introduction to Data Storytelling for Civic Impact</a></li>
-<li><a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_impact">Measuring Impact</a></li>
-<li><a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_capacity">Building Capacity</a></li>
-<li><a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_ethics"></a>Ethics of Data</li>
-</ul>
+<br /> - <a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_intro">An introduction to Data Storytelling for Civic Impact</a><
+<br /> - <a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_impact">Measuring Impact</a>
+<br /> - <a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_capacity">Building Capacity</a>
+<br /> - <a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_ethics"></a>Ethics of Data
 </p>
 
 keywords: data literacy
