@@ -1,0 +1,15 @@
+page_title: Vojo
+
+page_description: mobile mms-based blogging platform
+
+title: Vojo
+
+date: Nov 2011 - Jul 2013
+
+content:
+<p>
+With colleagues at the <a href="http://civic.mit.edu/">MIT Center for Civic Media</a>, 
+I worked on <a href="http://vojo.co/">Vojo.co</a> -  a hosted mobile blogging platform that makes it easy for people to post stories from inexpensive mobile phones via voice calls, SMS, and MMS. Our goal is to foster greater inclusion in in the digital public sphere.  We've partnered with many community groups that are using the service to further their goals.
+</p>
+
+keywords: civic media , mobile

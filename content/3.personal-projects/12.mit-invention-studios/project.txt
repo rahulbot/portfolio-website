@@ -1,0 +1,17 @@
+page_title: MIT Invention Studios
+
+page_description: craft robotics workshops for children
+
+title: MIT Invention Studios
+
+date: Jan 2002 - Jan 2004
+
+content:
+<p>
+I used to help out with robotics workshops now and again at <a href="http://web.mit.edu/museum/">MIT Museum</a>, when they ran some great weekend activities for kids. They were using the MIT Cricket to combine electronics with lots of other fun materials, stuff that's right up my alley!  	In particular, I had a chance to show my Drums of War there as part of their Inventor's Spotlight series. Building off of that, we put together an Invention Studio that weekend with the data gathering and visualization theme called Data Dumps.
+<p>
+<p>
+As a side benefit of this work I was able to acquire a "MIT Nerd Pride" pocket protector, which is now one of my most prized possesions.
+</p>
+
+keywords: education , lego , robotics , workshop

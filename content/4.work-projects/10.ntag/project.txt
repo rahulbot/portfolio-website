@@ -1,0 +1,20 @@
+page_title: nTAG
+
+page_description: interactive nametag for conferences and meetings
+
+title: nTAG
+
+date: Jul 2003 - Dec 2008
+
+content:
+<p>
+I worked for many years at nTAG Interactive, a startup that made interactive nametags for conferences and meetings.  We created a device and a web system that allowed organizers to adjust their event in realtime to meet the needs of their attendees.  At registration, each attendee was given the wearable pda-like device, which had a small screen with a menu-driven interface showing their personal agenda, session surveys, people they met, and some fun games.
+</p>
+<p>
+Being an early member of the team, I worked on all parts of the system.  I wrote the first web system, then worked on the second generation portable device.  I also rewrote parts of the custom 802.15.4-based radios, and spent a lot of time on application development and product specificaton.
+</p>
+<p> 
+Unfortunately nTAG recently went out of business.
+</p>
+
+keywords: arm , c , flash , hardware , java , msp430 , mysql , php , postgres , software , sqlite , visualization , website

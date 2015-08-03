@@ -1,0 +1,19 @@
+page_title: Hero Reports / Crónicas de Héroes
+
+page_description: rebuilding community positivity
+
+title: Hero Reports
+
+date: Dec 2010 - present
+
+content:
+<p>
+As part of my work at the <a href="http://civic.mit.edu/">MIT Center for Civic Media</a> I am supporting the technology behind the Hero Reports project to support its growth and expansion. Learn more at <a href="http://www.heroreports.org/">www.heroreports.org</a>.</p>
+<p>
+Hero Reports / Crónicas de Héroes is a campaign of positive thinking. It gives citizens a place to report acts of civic courage and other positive contributions to society that they have witnessed. We believe that given the right tools all citizens can create a stronger sense of civic pride and help build a more civil society.  Hero Reports combines on the ground community building and workshops with online collection and outreach to reshape internal and external perceptions of communities.
+</p>
+<p>
+I rebuilt the website that collects these reports and am advising the project's expansion with multiple partner communities, focused along the Mexican/American border.
+</p>
+
+keywords: php, website, civic media

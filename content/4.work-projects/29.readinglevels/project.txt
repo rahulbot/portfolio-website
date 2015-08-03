@@ -1,0 +1,15 @@
+page_title: Reading Grade Levels in the Media
+
+page_description: big data exploration
+
+title: Reading Grade Levels in the Media
+
+date: Aug 2013
+
+content:
+<p>
+With colleagues at the <a href="http://civic.mit.edu/">MIT Center for Civic Media</a>, 
+I created an example website that tracks reading grade levels in the media.   This is a toy project to test our infrastructure for quantitative news analysis.  The simple website let you compare the distribution of what levels various media levels operate at.
+</p>
+
+keywords: civic media , news

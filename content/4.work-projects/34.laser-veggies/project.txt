@@ -1,0 +1,29 @@
+page_title: Laser Veggies
+
+page_description: laser-cutting veggies to tell a story about food security
+
+title: Laser Veggies
+
+date: Aug 2013
+
+content:
+<p>
+In public settings, it can be quite hard to get folks walking by interested in a data-driven argument about your cause. We often argue that a creative data sculpture can grab their attention. Like maybe a vegetable laser cut with some data about food security!
+</p>
+<p>
+We’ve worked with the Somerville Food Security Coalition a few times, including for our first data mural pilot project! Recently, we had a chance to come together again around their local data about food security at the Somerville Arts Council’s 2014 Ignite Festival. The festival celebrates fire and food, which inspired us to laser cut some data onto food and see how people reacted!
+</p>
+<p>
+Blog Post:
+<a href="https://civic.mit.edu/blog/rahulb/lasers-food-data-story-about-food-security">Lasers, Food & Data (telling a story about food security)</a>
+</p>
+<p>
+<b>Press Coverage</b>
+<ul>
+<li><a href="http://www.pastemagazine.com/articles/2014/08/laser-etched-produce-works-to-raise-food-access-aw.html?utm_source=PMNL&utm_medium=email&utm_campaign=140818">Paste Magazine</a></li>
+<li><a href="http://www.pbs.org/idealab/2014/08/can-a-laser-cut-vegetable-tell-a-story-about-food-security/">PBS IdeaLab blog</a></li>
+<li><a href="http://thecreatorsproject.vice.com/blog/laser-etched-produce-brings-food-access-issues-to-the-table">Vice Creators Projet</li>
+</ul>
+</p>
+
+keywords: laser cutter, food security

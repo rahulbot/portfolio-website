@@ -1,0 +1,17 @@
+page_title: Aquanoids
+
+page_description: interactive toy prototype 
+
+title: Aquanoids
+
+date: Feb 2010
+
+content:
+<p>
+I created the technology to support a prototype interactive toy for a client interested in engaged multi-media play experiences.  The physical fish toy connected to the computer, interacted with a webpage, and connected to your phone.
+</p>
+<p>
+I could describe it more, but then I'd have to remotely trigger the self-destruct sequence on your computer.
+</p>
+
+keywords: arduino, python, CakePHP, flash, toy, prototype

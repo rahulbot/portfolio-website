@@ -1,0 +1,26 @@
+page_title: Bricket
+
+page_description: my thesis about a robotic contruction kit for the visually impaired
+
+title: Bricket
+
+date: May 2001 - May 2002
+
+content:
+<p>
+My thesis from the MIT Media Lab's Lifelong Kindergarten Group.
+</p>
+<h4>Designing a Computational Construction Kit for the Blind and Visually Impaired</h4>
+<p>
+This thesis documents the adaptation and extension of an existing computational construction kit, and its use by a community of learners previously unaddressed - blind and visually impaired children.  This community has an intimate relationship with the digital and assistive technologies that they rely on for carrying out their everyday tasks, but have no tools for designing and creating their own devices.  Using a computational construction kit, created around the latest Programmable Brick (the Cricket), children can write programs to interact with the world around them using sensors, speech synthesis, and numerous other actuators.  The Cricket system was extended with a number of specific modules, and redesigned to better suit touch and sound-based interaction patterns.  This thesis documents an initial technology implementation and presents case studies of activities carried out with a small group of visually impaired teenagers. 
+</p>
+<p>
+These case studies serve to highlight specific domains of knowledge that were discovered to be especially relevant for this community.  Much of this work impacts approaches, technologies, and activities for sighted users of the Programmable Brick.
+</p>
+<p>
+<h4>Downloads</h4>
+- <a href="/collateral/rahulb-thesis.pdf">Entire thesis as a PDF</a>
+- <a href="/collateral/rahulb-thesis-bibliography.html">Just the bibliography</a>
+</p>
+
+keywords: education , hardware , java , lego , pic-micro , robotics , software , writing

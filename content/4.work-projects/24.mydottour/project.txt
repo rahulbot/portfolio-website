@@ -1,0 +1,20 @@
+page_title: MyDotTour
+
+page_description: website to support youth-led hyper-local tours
+
+title: MyDotTour
+
+date: July 2011 - Sep 2011
+
+content:
+<p>
+<b><a href="http://www.timenesia.org/neighborhood/fields-corner">Vist the MyDotTour website</a></b>
+</p>
+<p>
+With colleagues at the <a href="http://civic.mit.edu/">MIT Center for Civic Media</a>, I created a website to support youth-led tours of the Fields Corner neighborhood of Boston.  The participants in the summer workshop researched the history of several sites in the area, posted their finding online, and led tours of the sites over several weekends.
+</p>
+<p>
+The key technology contribution was a phone-based system for accessing recording of the youth, and other commentators.  In the tradition of other place-based-voice-tagging research, our website allowed anyone to comment on the past, present, and future of the sites via audio or sms.  They could also listen to other people's comments.  All that content is shared on the website as well.
+</p>
+
+keywords: php , website , civic media

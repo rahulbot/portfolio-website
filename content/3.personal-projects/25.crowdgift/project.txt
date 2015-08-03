@@ -1,0 +1,17 @@
+page_title: CrowdGift
+
+page_description: Facebook app: friends contribute a few bucks each to send a real gift
+
+title: CrowdGift
+
+date: Mar 2009 - Jan 2010
+
+content:
+<p>
+I worked on a social-gifting application for Facebook (with my friends <a href="http://timgorton.com/">Tim Gorton</a> and <a href="http://civic.mit.edu/team/rick-borovoy">Rick Borovoy</a>.)  CrowdGift was a fun, easy, and inexpensive way for a group of friends to send a nice, real (as in, not virtual) gift for someone's birthday or other special occasion. We took the "if" out of gifting by offering only a small set of our favorite hand-crafted gifts. Just pick one for your friend, chip in a few bucks and we used the magic of Facebook to get your friends to do the same. When enough people chipped in, we notified your friend to arrange for delivery. No one paid a dime until the gift amount is reached.
+</p>
+<p>
+CrowdGift didn't take off as well as we would have liked it to, so we've discontinued it.  Now there are lots of websites that let you do the same thing - just <a href="http://www.google.com/search?&q=social+gifting">search for "social gifting"</a>.
+</p>
+
+keywords: php , Facebook , CakePHP , software , website

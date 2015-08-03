@@ -1,0 +1,41 @@
+page_title: Exif-O-Matic
+
+page_description: export meta-data out of digital images
+
+title: Exif-O-Matic
+
+date: Jan 2003 - Jan 2009
+
+content:
+<p>
+Most digital cameras store loads of meta-data within the image files that they create, these data make up the EXIF standard. They include things like the exact time the photo was taken, the f-stop, the flash setting, etc. I wanted to view this information as part of my online photo album, but I couldn't find an EXIF library that exported to TXT and HTML, so I wrote a small application around someone else's raw extraction library. I guessed that it would only take me a day or so to clean it up to a releasable point, so I went ahead and did it. 
+</p>
+<h4>How Do I Use It?</h4>
+<p>
+<i>Windows users, you'll want to double-click the "EXIF-O-Matic.bat" file. If a window appears and then vanishes, you might need to download the latest version of Java.</i> All users should keep an eye on the status bar at the bottom of the window, it gives instructions and feedback about what is going on. <a href="/collateral/EOM-example.html">Click for an example of the HTML that it outputs</a>. It is pretty simple to use:
+- Choose File->Open to load an image and view it's EXIF tags
+- Click the "Export File" button to save a text or html version of the tags
+- Click the "Process Folder" button to export the tags of all the images in the same folder 
+</p>
+<h4>Download v1.2</h4>
+<p>
+<b><i>Sorry, but I no longer support this software.  In fact, I haven't really touched it in years (beyond making sure it still runs on new computers).  I continue to post it here because lots of people apparently still find it useful.</i></b>
+</p>
+<p>
+- <a href="/collateral/EXIF-O-Matic.dmg">Exif-O-Matic for Mac OS X</a>
+- <a href="/collateral/EXIF-O-Matic-Windows.zip">Exif-O-Matic for Windows</a>
+- <a href="/collateral/EXIF-O-Matic-Linux.tgz">Exif-O-Matic for Linux</a>
+- <a href="/collateral/EXIF-O-Matic-Source.zip">Exif-O-Matic Source Code (Java)</a>
+</p>
+<h4>Like this software?</h4>
+<p>
+I've released this postcard-ware... meaning if you like it then I ask you to send me a postcard!  However, a number of folks  have asked if they can chip in to futher its development.  With that in mind, I've added this button to let you send me some money.  Thanks!
+</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="10788764">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+keywords: java , open-source , software

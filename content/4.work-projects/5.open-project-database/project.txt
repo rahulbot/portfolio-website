@@ -1,0 +1,17 @@
+page_title: Open Project Database
+
+page_description: build and share online project portfolios
+
+title: Open Project Database
+
+date: Apr 2004 - Jun 2004
+
+content:
+<p>
+I wrote the original version of the Open Project Database web system.  I created everything from the user interface to the database architecture for this online portfolio and project system.
+</p>
+<p>
+Check out the site for information: <a href="http://openprojectdb.org/">www.openprojectdb.org</a>
+</p>
+
+keywords: mysql , php , software , website

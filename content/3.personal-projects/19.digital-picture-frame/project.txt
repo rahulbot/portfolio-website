@@ -1,0 +1,15 @@
+page_title: Digital Picture Frame
+
+page_description: laptop transformed into digital picture frame
+
+title: Digital Picture Frame
+
+date: Jan 2008
+
+content:
+<p>
+In the hopes of being awarded yet another geek merit badge, I turned my old PowerBook G3 laptop into a digital picture frame to hang on the wall.  The hinge as broken and the screen about to fall off, so it seemed like a natural conversion to make.
+</p>
+<p>I started by flipping the screen around and mounting it to the back of the computer.  The more laborious work was creating a wood frame with the jigsaw and trying to put enough holes in it for the computer to vent out it's heat.</p>
+
+keywords: decor

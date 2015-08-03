@@ -1,0 +1,34 @@
+page_title: Drums of War
+
+page_description: interactive installation about conflict reporting
+
+title: Drums of War
+
+date: Jan 2003 - Jan 2004
+
+content:
+<p>
+I created this interactive art installation during the US invasion into Iraq to gives viewers an auditory display of the popular media's war coverage. Drums of War (DOW) logged newswire stories during that period of time, parsing them for mentions of war, conflict, and strife in numerous regions of the world. From this data DOW has generated a "war-likelihood" index for each day. Viewers were invited to plug small drums into a large map of the world. If the war-likelihood in that region was high, the connected drum beat quickly; if it was low, the drum beat more slowly. Plugging in a number of drums allowed viewers to compare the perceived chance of conflict in various parts of the world. A simple knob was used to dial back in time, enabling viewers to hear the ebb and flow of reporting over a few months. Setting the dial to "today" fetched realtime data directly from the web.
+</p>
+<p>
+DOW was part of a growing family of ambient information displays. The reinterpretation of distributed data into the simple and classic notion of beating the "drums of war" left the passerby with an audible perception of unrest across the globe. The background drumming echoed both the tribal communication patterns of civilizations past, and the drummer-boys who accompanied western European armies in generations of combat. It also served as a concentrated information source to replace the onslaught of today's news and war-reportage.
+</p>
+<p>Drums of War was created in collaboration with <a href="http://www.missmira.org/">Mira Friedlaender</a></p>
+<p>Here's a video of DOW in action at the 2003 <a href="http://artbots.org/2008/">ArtBots</a> show:
+<object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/Gi4TqLLnUeQ&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Gi4TqLLnUeQ&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
+</p>
+
+<h4>In the Press</h4>
+
+<li><a href="http://www.indianewenglandnews.com/news/2004/01/15/Community/Drumbeats.Unveil.Biases.In.War.Coverage-578927.shtml">Drumbeats unveil biases in war coverage</a> - India New England - Jan 15, 2004</li>
+<li><a href="indiaabroad.gif">Drums of War</a> - India Abroad - Jan 7, 2004</li>
+<li><a href="http://web.mit.edu/newsoffice/tt/2003/dec10/drums.html">Bhargava discusses 'Drums of War'</a> - MIT's Tech Talk - Dec 10, 2003</li>
+
+<h4>Public Shows</h4>
+
+<li><a href="http://www.artexpos.com/landing.asp?siteid=2">ArtEXPO International</a> - Feb 26 - Mar 1, 2004 (New York City)</li>
+<li><a href="http://mit.edu/museum/programs/nov-dec.html#ambient">MIT Museum: Inventor's Spotlight</a> - Dec 11/18, 2003 (Boston)</li>
+<li><a href="http://www.artbots.org/">ArtBots: the robot talent show</a>  - July 12-13, 2003 (New York City)</li>
+
+
+keywords: art , c , hardware , java , laser-cutter , lego , music , pcb , pic-micro , rabbit-micro , robotics , software , visualization

@@ -1,0 +1,8 @@
+page_title: Rahulbotics: Work Projects
+
+page_description: Work Projects
+
+category_name: Work Projects
+
+content:
+I do freelance consulting for a variety of clients.  My focus in on technology design and implementation, in hardware or software.  I tend to work for education and non-profit sectors.  Click through this list of projects to get a sense of the type of work I do.

@@ -1,0 +1,20 @@
+page_title: Ring.Bot
+
+page_description: interactive ring bearer for friend's wedding
+
+title: Ring.Bot
+
+date: Sep 2004
+
+content:
+<p>
+RingBot was a ring-bearing bot made for my friends Rob and Emily's wedding.
+</p>
+<p>
+It's a pretty simple design - reflecting a mix of retro 1950s gadgetry and cheesy wedding themes. It begins closed, shiny and mysterious. A simple wave of the hand over the back of it begins the petals opening. They pull back, opening slowly, revealing two purple pillows nestling the rings on a bed of rose petals.
+</p>
+<p>
+I was honored that they let me build something for their wedding, and everybody enjoyed it (even though we didn't end up getting the rings inside because of all the excitement).  It marked my triumphant return to wedding robotics, after the spectacular failure I had building a champagne-delivering robot at my brother's wedding.
+</p>
+
+keywords: hardware , lego , pic-micro , robotics

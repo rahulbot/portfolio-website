@@ -1,0 +1,21 @@
+page_title: Map of the Future
+
+page_description: interactive climate change simulation
+
+title: Map of the Future
+
+date: Sep 2009 - Dec 2009, Oct 2010, Aug 2011
+
+content:
+<p>
+The Map of the Future is an interactive climate change simulation created by <a href="http://www.tactable.com/">Tactable</a> for an NSF-sponsored traveling museum exhibit. I made major user-interface changes to the in-progress project, iterating quickly towards a simplified model that allows visitors to see the future impacts of policy changes.  My work included a deep-dive into the research to back up certain simplifying assumptions we made - bringing scientifically sound predictions and a well-vetted model to a new audience.
+</p>
+<p>
+<a href="http://seasons.terc.edu/">The Seasons of Change exhibit</a> focuses on the current and future potential impacts of local and global climate change.  Visitors walking up to the interactive table can place one or more dials on the map to alter the future level of energy supplies and demands, and see how those changes would impact the world in 2075.  Multiple versions of the Map of the Future table will travel around the US as part of a larger exhibit over the next few years.
+</p>
+<p>
+<b>Watch this video to find out more:</b>
+<object width="400" height="225"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=9023042&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=9023042&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="225"></embed></object><p><a href="http://vimeo.com/9023042">Map of the Future</a> from <a href="http://vimeo.com/user3053123">Tactable</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+</p>
+
+keywords: flash

@@ -1,0 +1,14 @@
+page_title: Dimagi Website
+
+page_description: website and simple cms
+
+title: Dimagi website
+
+date: Mar 2005
+
+content:
+<p>
+I created a new website for Dimagi, a small company of technologists working on global health.  The site was built on a simple php architecture, totaling  around 10 pages.  It included simple content-management features such as a CSV-driven calendar, text-file based news section, and a configurable menu system hierarchy.  The new site and some minor search-engine optimization led to an increase in traffic around relevant keywords.
+</p>
+
+keywords: php , website

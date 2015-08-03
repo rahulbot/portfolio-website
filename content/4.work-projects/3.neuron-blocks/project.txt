@@ -1,0 +1,17 @@
+page_title: Neuron Blocks
+
+page_description: consulting on a nueron modeling kit
+
+title: Neuron Blocks
+
+date: Mar 2003 - Jul 2003
+
+content:
+<p>
+I worked with the Science Museum of Minnesota to prototype a set of neuron-simulaton blocks.  Students could connect the small blocks to form networks, modeling how the brain functions.
+</p>
+<p>
+I built an extension to the MIT Media Lab's cricket construction kit that allowed the Museum folks to tweak the ways neuron blocks would connect and how they reacted when brought together.
+</p>
+
+keywords: c , education , hardware , pcb , pic-micro

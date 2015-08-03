@@ -1,0 +1,20 @@
+page_title: What We Watch
+
+page_description: geographic exploration of trending YouTube videos
+
+title: What We Watch
+
+date: Jul 2013 - Dec 2015
+
+content:
+<p>
+With Ed Platt and Ethan Zuckerman here at the MIT Center for Civic Media, I built an online tool geographically explore trending videos on YouTube. We logged daily information on trending videos from YouTube and built a network of countries that watch the same videos.  We're doing a bunch of analysis around this to look at cultural connectivity via videos.
+</p>
+<p>
+<a href="http://whatwewatch.mediameter.org">http://whatwewatch.mediameter.org</a>
+</p>
+<p>
+Our paper was accepted into the proceedings of the ICWSM2015 conference: <a href="/collateral/Platt-Bhargava-Zuckerman-2015.pdf">The International Affiliation Network of YouTube Trend</a>
+</p>
+
+keywords: civic media , data , visualization , d3 , backbone.js , flask , python

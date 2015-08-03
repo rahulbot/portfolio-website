@@ -1,0 +1,16 @@
+<h1 class="category col twelve">@category_name</h1>
+
+<hr>
+
+<ul class="projects">
+foreach(@PageInCategory):
+	<li class="col twelve">
+		<p class="date col two">@date</p>
+		<h2 onmouseout="$($(this).children()[2]).hide()" onmouseover="$($(this).children()[2]).show()" class="col ten"><a href="@url"><img src="@thumb" class="project-thumb" alt="" border="0"></a><a href="@url">@title</a>
+		  <div class="summary" style="display:none;">@page_description</div>
+		</h2>
+	</li>
+endforeach;
+</ul>
+
+<hr><hr>

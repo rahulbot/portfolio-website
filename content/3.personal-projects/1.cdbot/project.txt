@@ -1,0 +1,24 @@
+page_title: CD.Bot
+
+page_description: laser-cut wall-hanging CD-player mod
+
+title: CD.Bot
+
+date: Dec 2000 - Mar 2001
+
+content:
+<p>
+I had an old Sony portable discman, so I decided to make a new case for it. I removed the CD player from it's cheap plastic case and made this big robot for it out of corrugated plastic (on a laser cutter). All the pieces are designed to snap together.  The CD itself spins vertically, as the right eye. As this wasn't meant to be a one-eyed pirate robot, I put a post in to allow another CD to sit as the left eye. The right hand ear is the play button, the left hand ear is the stop button.
+</p>
+<p>
+The cardboard box images are of mock-ups I did to try and size up the protruding parts of the player to get as clean of a fit as possible. I ended up just scanning the player mechanism face down and then tracing the outline in Illustrator.  The arms are actuated with little servos, but I never got around to programming them to dance. However, I know nothing about audio processing so I'm not sure how hard it would be to make it dance in time to the beat.
+</p>
+<p>
+Sadly the lens of the CD player got dirty, so now poor CD-Bot is sitting dismantled in my basement. 
+</p>
+<h4>Downloads</h4>
+<p>
+- <a href="/collateral/cdbot-cad.zip">CAD files, in CorelDraw 9 format</a>
+</p>
+
+keywords: decor , laser-cutter

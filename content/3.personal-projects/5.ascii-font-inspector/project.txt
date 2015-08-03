@@ -1,0 +1,19 @@
+page_title: ASCII Font Inspector
+
+page_description: look closer at fonts
+
+title: ASCII Font Inspector
+
+date: Dec 2002
+
+content:
+<p>
+ASCII Font Inspector is just a small application for looking closer at a font. When you select a font, it displays all the standard Roman characters in a table. You can click each of the letters to see a bigger version of it on the left. You can save the character to a JPG, or export it to ASCII-art. As the name suggests, this only supports ascii characters (because that is all I needed to work with).
+<p>
+<h4>Download v1.1</h4>
+<p>
+- <a href="/collateral/ASCIIFontInspector.dmg">ASCII Font Inspector for Mac OS X</a>
+- <a href="/collateral/ASCIIFontInspector-Source.zip">ASCII Font Inspector Source Code (Java)</a>
+</p>
+
+keywords: java , open-source , software

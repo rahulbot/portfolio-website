@@ -1,0 +1,14 @@
+page_title: WGBH Forum Network
+
+page_description: drupal modules for video website
+
+title: WGBH Forum Network
+
+date: Feb 2009 - Jun 2009
+
+content:
+<p>
+I was the programmer on a small team developing the Forum Network for WGBH (a Boston PBS station).  I managed integration with the video CDN and created custom Drupal modules and scripts.  I delivered tested, well documented PHP code the client as part of handoff process.  The website later launched with a redesign - I'm not sure if it still includes any of my code.
+</p>
+
+keywords: php , website

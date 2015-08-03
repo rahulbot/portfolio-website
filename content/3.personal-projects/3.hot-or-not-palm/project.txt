@@ -1,0 +1,25 @@
+page_title: Hot-or-Not Palm
+
+page_description: rate the hotness of your party people
+
+title: Hot-or-Not Palm
+
+date: Nov 2001 - Feb 2002
+
+content:
+<p>
+Constantly cruising the web in search of the latest technologies that facilitate interaction, scientists here were fascinated when they stumbled upon the Am-I-Hot-Or-Not? phenomenon. While the current technology allows people to rate each others looks from afar, there is no way to build on top of that initial interaction which might allow dialogue to develop between the rater and the ratee.
+</p>
+<p>
+So we asked ourselves, why not bring this provocative idea to the face-to-face realm? Well, that's precisely what we have done. So, please download our Am-I-Hot-Or-Not : Party Edition and start rating. 
+</p>
+<h4>How does this work?</h4>
+<p>
+First, you need a party full of people with PalmPilots. Now you can use the Party Edition's built in beam me feature to transfer the program to your party-mates. Now you're all ready to go! When you meet someone, you can tap the "them" button and rate them as hot, or not. You just have to point your palm's IR windows at each other, and the Party Edition will send your rating over, and send you back their current rating. To preserve some level of anonymity, your display of your own rating only updates every five times you are rated. 
+</p>
+<h4>Downloads</h4>
+<p>
+- <a href="/collateral/hotornot.zip">Hot-or-Not for Palm</a>
+</p>
+
+keywords: art , c , palm , software

@@ -1,0 +1,27 @@
+page_title: iDisplay
+
+page_description: two-line display shows newsfeeds from the internet
+
+title: iDisplay
+
+date: Jan 2003 - Aug 2003
+
+content:
+<p>
+The iDisplay is a network-enabled VFD display that can be used to display RSS news feeds. Specifically, the first iteration was set up to display live news feeds from CNN or the BBC.  The second iteraction was tied to a website where you could log in and configure what you wanted your device to display.  Think about it as an ancestor to the <a href="http://www.chumby.com/">Chumby</a>.
+</p>
+<p>
+The iDisplay presents a compelling example of a hardware widget. Embedded processor technology has become affordable, to the point where it makes economical sense to build networked devices that contain a subset of a computer's capabilities. Devices that have more constrained functionalities can be better designed to fit more natural usage patterns. These widgets will begin to populate the spaces we inhabit, as their capabilities become something more useful and engaging. We just need to build more exciting examples!
+</p>
+<o>
+Besides all that mumbo-jumbo, it's just neat to have a really cool looking display on my desk. I can read the news headlines in the morning, and it serves as a clock (because it also shows the current time). Plus, devices where all you plug in is power and ethernet are just great. Now we need to have widespread adoption of powered ethernet.
+</p>
+<p>Here's a short video of it showing the BBC news:
+<object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/Ez_a4euA60w&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Ez_a4euA60w&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
+</p>
+<h4>Downloads</h4>
+
+<li><a href="/collateral/idisplay.c">Some really old Rabbit source code</a></li>
+
+
+keywords: c , decor , hardware , pcb , rabbit-micro

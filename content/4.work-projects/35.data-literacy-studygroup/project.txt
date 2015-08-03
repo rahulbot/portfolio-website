@@ -1,0 +1,26 @@
+page_title: Data Storytelling for Civic Impact
+
+page_description: study group
+
+title: Data Storytelling for Civic Impact
+
+date: May 2015
+
+content:
+<p>
+In collaboration with Dalia Othman (Berkman Center) and Catherine D’Ignazio (Emerson College Dept of Journalism & Engagement Lab) I organized a study group on Data Storytelling for Civic Impact.  The study group was hosted by the Harvard Berkman Center for Internet and Society.
+</p>
+<p>
+The goal of this study group is to build a network of educators and practitioners that can develop shared educational approaches on issues surrounding BUILDING CAPACITY and data literacy, the ETHICS of data and the CIVIC IMPACT of data-driven storytelling and how to measure it.
+</p>
+<p>
+Read the blog posts:
+<ul>
+<li><a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_intro">An introduction to Data Storytelling for Civic Impact</a></li>
+<li><a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_impact">Measuring Impact</a></li>
+<li><a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_capacity">Building Capacity</a></li>
+<li><a href="https://cyber.law.harvard.edu/getinvolved/studygroups/datastorytelling_ethics"></a>Ethics of Data</li>
+</ul>
+</p>
+
+keywords: data literacy

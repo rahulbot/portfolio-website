@@ -1,0 +1,17 @@
+page_title: Somerville Art Map
+
+page_description: printable maps of public art in Somerville, MA
+
+title: Somerville Art Map
+
+date: Sep 2013
+
+content:
+<p>
+My wife Emily received a grant from the <a href="http://somervilleartscouncil.org">Somerville Arts Council</a> to build an online public map of Somerville, MA, USA.  You can <a href="http://www.somervilleartscouncil.org/artmap">browse and submit pieces of art on their website</a>.
+</p>
+<p>
+To support some outreach activities, I built a website that lets you print maps for each neighborhood in our town. Check it out at <a href="http://somervilleartmap.org">http://somervilleartmap.org</a>.
+</p>
+
+keywords: php, website, mapping, art

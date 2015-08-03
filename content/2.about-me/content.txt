@@ -1,0 +1,15 @@
+page_title: Rahulbotics: About Me
+
+page_description: technology, design & art by rahul bhargava
+
+title: About Me
+
+content: 
+<b>My name is Rahul Bhargava</b>
+I like building things.
+I work on technology and work with people.
+I work at the <a href="http://civic.mit.edu/">MIT Center for Civic Media</a>.
+I live in Somerville, MA - just outside of Boston in the United States.
+This website serves as a simple portfolio of things I work on, and things I build.
+You can email me at rahul [ at ] rahulbotics [ dot ] com
+On Twitter I am <a href="https://twitter.com/@rahulbot">@rahulbot</a>

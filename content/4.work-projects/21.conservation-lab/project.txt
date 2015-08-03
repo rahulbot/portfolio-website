@@ -1,0 +1,14 @@
+page_title: The Conservation Lab
+
+page_description: multitouch museum installation
+
+title: The Conservation Lab
+
+date: Sep 2010 - Nov 2010
+
+content:
+<p>
+The Conservation Lab table is an interactive, multitouch table created by <a href="http://www.tactable.com/">Tactable</a> for the <a href="http://www.mfa.org/americas-wing/">new Art of the Americas wing of the Boston MFA</a>.  The installation allows users to explore the issues that go into deciding whether to restore an aging piece of art.  I created the user interface software for the installation.
+</p>
+
+keywords: flash, multitouch, museum

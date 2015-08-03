@@ -1,0 +1,20 @@
+page_title: RetroPrint
+
+page_description: receipt printer connected to the internet
+
+title: RetroPrint
+
+date: Jan 2003 - Mar 2003
+
+content:
+<p>
+I adapted my iDisplay code to produce a receipt printer connected to the internet.  Why is this useful?  Well, often I have some short bit of text on my computer that I need with my when I run out of the house.  I can never find a pencil to write it down, so now I can just paste it into a webpage, hit print, and it comes out on my receipt printer!
+</p>
+<p>
+This is the first really interesting thing to come out of my explorations with a receipt printer I bought on Ebay.  Originally the PCB I designed ran it's own server, but then I changed it to talk to a web-based server.
+</p>
+<p>Here's a short demo video :
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/XTfAkf-59Mw&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XTfAkf-59Mw&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+</p>
+
+keywords: c , hardware , pcb , rabbit-micro

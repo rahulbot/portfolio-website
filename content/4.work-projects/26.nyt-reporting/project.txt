@@ -1,0 +1,17 @@
+page_title: New York Times Coverage
+
+page_description: international vs. domestic new coverage
+
+title: New York Times Coverage
+
+date: Aug 2011
+
+content:
+<p>
+With colleagues at the <a href="http://civic.mit.edu/">MIT Center for Civic Media</a>, I did a deep dive into the archives of the New York Times (via their <a href="http://www.ldc.upenn.edu/Catalog/catalogEntry.jsp?catalogId=LDC2008T19">annotated corpus</a>).  One of the results was a poster detailing the domestic vs. international coverage over the last 20 years.
+</p>
+<p>
+You can <a href="/collateral/nyt-us-world-coverage.pdf">download a PDF of the entire poster</a>.
+</p>
+
+keywords: news , visualization , civic media

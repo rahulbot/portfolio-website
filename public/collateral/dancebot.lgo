@@ -1,0 +1,44 @@
+loop [react]
+global [sensa sensb i]
+
+to react
+	wait 5
+  waituntil [ dist > 75 ]
+  note 70 2
+  note 119 2
+  danceUp
+  wait 5
+end
+
+to autostart-on
+	db $FFF 0
+end
+
+to autostart-off
+	db $FFF 255
+end
+
+to disp :n
+  bsend $170
+  bsend :n / 256
+  bsend :n % 256
+end
+
+to dist
+	output bsr $155
+end
+
+to danceUp
+  a,
+  ;right arm back X
+  thatway on waituntil [sensora > 50] wait 5 off
+  wait 2
+  ;right arm forward 2X
+  thisway on waituntil [sensora < 50] wait 5 off
+  wait 2 
+  ;right arm back 2X
+  thatway on waituntil [sensora > 50] wait 5 off
+  wait 2
+  ;right arm forward X
+  thisway on waituntil [sensora < 50] off
+end

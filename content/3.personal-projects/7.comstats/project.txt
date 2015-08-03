@@ -1,0 +1,35 @@
+page_title: ComStats
+
+page_description: reflective data collection and mining
+
+title: ComStats
+
+date: Nov 2002 - Apr 2003
+
+content:
+<p>
+ComStats lets you chart your usage of Apple's Mail email client, the iChat and Adium AIM clients, and the open-source Fire IM client. People are starting to call this "personal informatics", which can only mean that it has become a popular idea in the academic field.  All these applications can be set up to keep copies of your communications on your hard drive. ComStats reads these logs and graphs some data using the JFreeChart graphing utility. Over arbitrary periods of time (days, months, or years), you can chart data such as:
+- the number of emails and chats you have
+- the size of emails and the duration of chats
+- the amount of emoticons you use in your mails and chats
+- the amount of links you send in your mails and chats 
+</p>
+<h4>How Do I Use It?</h4>
+<p>
+I'd like to think that ComStats can help you reflect on your communication habits. As we move forward with these new modes of conversing, it is interesting to observe how are habits change (or how they stay the same). There has been lots of research around making fancy visualizations of such things, but I haven't seen many tools that work for regular computer users (the notable exception is Eudora). You can also print the graphs and save them as JPEG images.
+</p>
+<p>
+I've already noticed a few things about my own habits, for instance:
+- I have more chats with family members, but chat for longer with my friends
+- after I left university, the amount of emails I received decreased significantly
+- if I am chatting with a friend who uses emoticons a lot, I tend to use them more
+
+Any conclusions to be drawn from observations like this are, of course, up to the individual user. This experiment should probably be categorized with other things that are not meant to be measured with numbers.  It reminds me of an old <a href="http://www.thisamericanlife.org/Radio_Episode.aspx?sched=696">This American Life episode about Numbers</a>, and a more recent <a href="http://xkcd.com/523/">xkcd</a> comic.
+</p>
+<p>
+<h4>Downloads</h4>
+- <a href="/collateral/ComStats.dmg">ComStats for Mac OS X</a>
+- <a href="/collateral/CS-Source.zip">ComStats Java Source Code</a>
+</p>
+
+keywords: java , open-source , software , visualization

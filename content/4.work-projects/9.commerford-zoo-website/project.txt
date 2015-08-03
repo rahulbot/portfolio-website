@@ -1,0 +1,17 @@
+\page_title: Commerford Zoo website
+
+page_description: website for family-friendly petting zoo
+
+title: Commerford Zoo website
+
+date: May 2007 - Dec 2007
+
+content:
+<p>
+I redesigned and implemented a new website for the Commerford Zoo.  They own a variety of friendly animals and run family-friendly fun fairs.  This also involved filming and editing a short introduction to the fun fairs, posted to the homepage.
+</p>
+<p>
+If you need an elephant for your indian wedding, they are the people to call (ask for Minnie).
+</p>
+
+keywords: php , software , website

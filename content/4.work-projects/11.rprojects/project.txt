@@ -1,0 +1,17 @@
+page_title: rProjects
+
+page_description: web startup
+
+title: rProjects
+
+date: Feb 2009 - Aug 2009
+
+content:
+<p>
+I've been working with, and advising this early-stage startup.  I've done development on the technology, wireframing for workflow simplification, graphic design for UI screens, and business strategy advising.
+</p>
+<p>
+http://www.rprojects.net/
+</p>
+
+keywords: php , website

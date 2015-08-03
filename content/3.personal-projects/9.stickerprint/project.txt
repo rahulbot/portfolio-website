@@ -1,0 +1,25 @@
+page_title: StickerPrint
+
+page_description: label printer connected to the internet
+
+title: StickerPrint
+
+date: Jan 2003 - Jun 2003
+
+content:
+<p>
+StickerPrint is a network-enabled address label printer. Specially formatted information from the web can be downloaded, parsed, and printed onto small address labels (like the ones you use on envelopes to send mail). The neat thing is that these are then information-stickers, which you can affix to lots of different surfaces. All you do is plug in power and ethernet, and off you go!
+</p>
+<p>
+The iPrinter prints labels by talking to a SLP100 address label printer over a serial port. To get the fonts I wanted, I wrote a simple program which would translate characters to scaled bitmaps, and then load those bitmaps into external memory (based on my ASCIIFontInspector).
+</p>
+<p>
+The MIT Beaver case was designed by Erica Young and Michael Rosenblatt.
+</p>
+<h4>Downloads</h4>
+
+<li><a href="/collateral/sticker-print-slp100.zip">Source code for the Rabbit processor, based on the example code provided on the Seiko website. </li>
+
+
+
+keywords: c , hardware , java , pcb , php , rabbit-micro

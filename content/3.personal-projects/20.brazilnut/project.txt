@@ -1,0 +1,18 @@
+page_title: Brazilnut
+
+page_description: band playing brazilian samba, bossa, jazz, etc.
+
+title: Brazilnut
+
+date: May 2004 - Jan 2008
+
+content:
+<p>
+Brazilnut played a reportoire of brazilian music, from bossa to funk.  I played percussion in this band with a number of friends of mine over about 4 years.  We gig'ed consistently at <a href="http://www.rylesjazz.com/">Ryles Jazz Club</a>.  It was a great chance for me to learn and hone my skills as a percussionist on some challenging and diverse material, with an amazing group of people.
+</p>
+<p>
+Here's a short video of us at Ryles:
+<object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/cgvSUYHHtVc&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cgvSUYHHtVc&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
+</p>
+
+keywords: music

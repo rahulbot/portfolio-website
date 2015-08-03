@@ -1,0 +1,17 @@
+page_title: Doctors for Global Health Website
+
+page_description: Drupal website for non-profit
+
+title: Doctors for Global Health Website
+
+date: Mar 2009 - Oct 2009
+
+content:
+<p>
+I created a new website for Doctors for Global Health - a private, not-for-profit organization promoting health, education, art and other human rights throughout the world.  The process included the graphical design, information architecture, and implementation in the Drupal content management system.
+</p>
+<p>
+Visit the new website here: <a href="http://www.dghonline.org/">www.dghonline.org</a>
+</p>
+
+keywords: Drupal , php , website

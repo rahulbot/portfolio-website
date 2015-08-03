@@ -1,0 +1,23 @@
+page_title: Sasaki Ideas Website
+
+page_description: company blog for an architecture and planning firm
+
+title: Sasaki Ideas Website
+
+date: Jun 2009
+
+content:
+<p>
+I designed and implemented a public blog for Sasaki Associated - an architecture and planning firm near Boston.  Over the course of one month I:
+- did a mini-anthropology of their internal culture
+- mocked up example designs
+- interviewed and identified potential contributors
+- implemented a chosen design in Drupal
+- created a multi-tiered plan to keep content flowing in
+- launched the site and did basic SEO to bring Sasaki's ideas to a new audience
+</p>
+<p>
+This project integrated many of the lessons in my brother's book - <a href="http://www.personalitynotincluded.com/">Personality Not Included</a>.
+</p>
+
+keywords: Drupal , php , website

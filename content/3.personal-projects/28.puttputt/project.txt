@@ -1,0 +1,14 @@
+page_title: Future Putt Putt
+
+page_description: bringing electronics into mini-golf
+
+title: Future Putt Putt
+
+date: Jan 2012
+
+content:
+<p>
+I love putt-putt (aka minigolf). One day I'll retire and open up a mini-golf course.  Visiting artists, educational workshops, community activities… the whole thing will be awesome.  In the meantime, I ran a quick workshop with some folks to integrate the PicoCricket robotics kit into a cardboard putt putt course (inspired by the <a href="http://www.imagination.is/cardboard_challenge">Imagination Foundation's Cardboard Challenge</a>).  We built some creative holes that brought in the audience via interactive robotic additions!
+</p>
+
+keywords: electronics , PicoCricket , cardboard

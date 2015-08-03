@@ -1,0 +1,15 @@
+page_title: PageOneX
+
+page_description: visualize the evolution of stories on newspaper front pages
+
+title: PageOneX
+
+date: Nov 2012 - July 2013
+
+content:
+<p>
+With colleagues at the <a href="http://civic.mit.edu/">MIT Center for Civic Media</a>, 
+I worked on <a href="http://pageonex.com/">PageOneX</a> - a platform for newspaper front-page analysis.  The tool, created by Pablo Rey, allows you to highlight areas of front pages that are about specific topics.  Then the tool generates a chart of front page coverage over time.  This builds on a rich history of quantitative news analysis that was mostly done with papers and scissors (by grad students locked in a room with beer and pizza), bringing it one step into the digital era.
+</p>
+
+keywords: civic media , news

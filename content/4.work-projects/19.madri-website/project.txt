@@ -1,0 +1,18 @@
+page_title: Daniel Madri Construction Website
+
+page_description: small website for a local contractor
+
+title: Madri Construction Website
+
+date: Apr 2010
+
+content:
+<p>
+I designed and implemented a website for a local construction contractor in a few days.  The website, built on the Drupal content management system, allows the owner to maintain the content himself.  It includes support for a gallery of past projects, and other basic website features.
+</p>
+<p>
+<a href="http://www.danielmadriconstruction.com/">Daniel Madri Construction</a>
+</p>
+
+keywords: Drupal , php , website
+

@@ -1,0 +1,17 @@
+page_title: Realtime Community Signage
+
+page_description: cheap realtime public signage
+
+title: Realtime Community Signage
+
+date: Jan 2011 - Sep 2011
+
+content:
+<p>
+For one of my projects at the <a href="http://civic.mit.edu/">MIT Center for Civic Media</a> I created a relatively cheap platform for displaying live transit and community event information. Community groups partnered with local businesses and institutions to install digital signage that call out information relevant to their neighborhood.  Specifically, we installed scrolling LED signs that display bus arrival times and transit information.
+</p>
+<p>
+Technologically, the interesting part was that we repurposed an off-the-shelf router to drive the signs and communicate with the server.  This meant the total hardware cost was about &#36;300. The <a href="https://github.com/c4fcm/Realtime-Community-Sign">code is available on github</a>.
+</p>
+
+keywords: php , python , website , civic media

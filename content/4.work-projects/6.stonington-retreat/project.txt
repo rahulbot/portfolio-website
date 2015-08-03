@@ -1,0 +1,17 @@
+page_title: Stonington Retreat
+
+page_description: teacher training on integratiing robotics into curriculum
+
+title: Stonington Retreat
+
+date: Jul 2004
+
+content:
+<p>
+For a few years I was invited to the annual Stonington Retreat, run by <a href="http://visioneducation.com/">Vision Education</a>. I facilitated at the weeklong education workshops, which focused on introducing teachers to creative approaches for using new technologies in classroom settings. Specifically, we work with LCSI Microworlds, LEGO Mindstorms, and RoboLab.
+</p>
+<p>
+Attendees choose their interests from a variety of introductory and advanced sessions. I mainly help with the LEGO engineering, robot programming, and discussions about natural connections with other topics students might be studying.  The retreat's beautiful location provides ample opportunity to really focus in on how to adapt interactive construction-centered technologies to a school setting. Surrounding oneself with like-minded, supportive peers leads to engaging discussions, and really good lobster feasts.  
+</p>
+
+keywords: education , lego , workshop

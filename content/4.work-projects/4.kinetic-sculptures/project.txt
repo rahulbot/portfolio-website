@@ -1,0 +1,21 @@
+page_title: Kinetic Sculptures
+
+page_description: workshop for children at the American Visionary Art Museum
+
+title: Kinetic Sculptures
+
+date: Apr 2003
+
+content:
+<p>
+I helped facilitate workshop where adults and children used craft materials, LEGO bricks, and the MIT Cricket to create interactive kinetic sculptures.  The theme was based on the yearly Kinetic Sculpture Race that the <a href="http://www.avam.org/">American Visionary Art Museum in Baltimore</a> hosts.  Two-story-high poodles, frogs, and chickens trek across a 15 mile course throughout Baltimore going over mud, sand, and into the Inner Harbor. The sculptures must be able to fit under the traffic lights, and they must be human-powered.
+</p>
+<p>
+Thier staff made a miniature replica of Patterson Park where people could put their sculptures on display complete with minature trees and lakes. Patterson Park is where the sculptures go through the mud and sand pit portions of the course on the day of the race.
+</p>
+<p>
+Watch this short video of the workshop:
+<object width="320" height="265"><param name="movie" value="http://www.youtube.com/v/4XBsELTUiTk&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4XBsELTUiTk&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="320" height="265"></embed></object>
+</p>
+
+keywords: education , lego , robotics , workshop

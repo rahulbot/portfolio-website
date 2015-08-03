@@ -1,0 +1,24 @@
+page_title: Visualization for Debugging
+
+page_description: guest blog post on Flowing Data
+
+title: Visualization for Debugging
+
+date: May 2008
+
+content:
+<p><a href="http://flowingdata.com/2008/05/15/quickie-visualizations-for-debugging/">Read the short essay on the Flowing Data blog</a>.
+</p>
+<p>
+I wrote a guest post about visualization for debugging.  This often-overlooked use of visualization is about creating and playing with pictures of data to reveal patterns or bugs in the code you are writing or system you are using.  I give a few examples and some reminders about quick-and-dirty techniques that can yield useful results without too much work.
+</p>
+<p>
+The post comes out of and refers to work I did at nTAG interactive, where we developed and deployed  interactive nametags that communicated over a custom wireless network.
+<p>
+<h4>Downloads</h4>
+
+<li><a href="/collateral/viz4debug.pdf">The Flowing Data post as a PDF</a></li>
+
+
+
+keywords: education , visualization , writing

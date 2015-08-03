@@ -1,0 +1,14 @@
+page_title: Production Monitoring Infrastructure
+
+page_description: installation status dashboard
+
+title: Production Monitoring Infrastructure
+
+date: Mar 2010 - Nov 2010
+
+content:
+<p>
+I created a monitoring infrastructure for <a href="http://www.tactable.com/">Tactable</a> to monitor their installations around the world.  
+</p>
+
+keywords: python, CakePHP

@@ -1,0 +1,14 @@
+page_title: Creatures of the Fiery Pool
+
+page_description: multitouch museum installation
+
+title: Creatures of the Fiery Pool
+
+date: Jan 2010 - Apr 2010
+
+content:
+<p>
+Creatures of the Fiery Pool is the interactive centerpiece, created by <a href="http://www.tactable.com/">Tactable</a>, of <a href="http://www.pem.org/exhibitions/106-fiery_pool_the_maya_and_the_mythic_sea">a traveling exhibit of Maya artifacts</a>, focused on water's centrality to their culture's creation stories.  I created interactive widgets that spring up when visitors touch the shadowy animals swimming on the elliptical multi-touch surface.  Groups of visitors around the pool can use the hand-drawn menus of icons to reveal fascinating details about turtles, crocodiles, sting rays and sharks as they appear in nature, art and the Maya cosmology. Artworks in the collection are interpreted through video and animation, encouraging visitors to seek out the objects in the galleries themselves and see them in a different light. Many people can touch the background surface at the same time, creating realistic waves in the simulated water pool. Sunset reflections appear on the waves' surface giving a dynamic visual interpretation of the meaning of the Mayan mythical Fiery Pool.
+</p>
+
+keywords: flash, multitouch, museum

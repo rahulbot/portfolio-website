@@ -1,0 +1,35 @@
+page_title: Jackal
+
+page_description: open-source software to program the cricket robotics kit
+
+title: Jackal
+
+date: Aug 2002 - Jun 2004
+
+content:
+<p>
+Jackal is an open-source Java application that lets you program a HandyCricket miniature robotics controller in a variant of the Logo programming language. It includes features like:
+- Syntax highlighting
+- Customizable interfaces (skins)
+- Automatic library downloading
+- Remote control over the net (iBrick)
+- Support for English, Spanish, and Portuguese 
+</p>
+<p>
+You can get a HandyCricket from <a href="http://www.gleasonresearch.com/">Gleason Research</a>. Check out the <a href="http://handyboard.com/cricket/">HandyCricket homepage</a> as well.
+</p>
+<h4>How Do I Use It?</h4>
+<p>
+Keep an eye on the status bar at the bottom of the window, it gives instructions and feedback about what is going on. Here is a screenshot of the interface, with the preferences panel opened up (on Mac OSX). Otherwise, it works the same as the CricketLogo application that you already use with your HandyCricket. Read the "readme.html" file included for more info. 
+</p>
+<h4>Downloads</h4>
+<p>
+- <a href="/collateral/Jackal-OSX.dmg">Jackal for Mac OS X</a>
+- <a href="/collateral/Jackal-Mac.sit">Jackal for Max OS 9</a>
+- <a href="/collateral/Jackal-Windows.zip">Jackal for Windows</a>
+- <a href="/collateral/Jackal-Src.zip">Jackal Source Code</a>
+- <a href="/collateral/Jackal-iBrickSDK.zip">iBrick SDK (for web control)</a>
+- <a href="/collateral/SerialInstallerOSX.pkg.sit">Mac OS X Java Serial Installer</a>
+</p>
+
+keywords: education , java , open-source , robotics , software

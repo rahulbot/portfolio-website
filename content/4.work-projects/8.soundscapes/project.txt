@@ -1,0 +1,14 @@
+page_title: Soundscapes
+
+page_description: consulting on an interactive musical toy
+
+title: Soundscapes
+
+date: Jan 2006 - May 2006
+
+content:
+<p>
+The Science Museum of Minnesota called me to help them prototype solutions for a tangible-computing system.  They wanted to allow museum visitors to compose music by placing sound blocks along a shelf. I researched multiple signal-over-power solutions and created reference schematics for other team members to review and extend.
+</p>
+
+keywords: education , hardware , pcb

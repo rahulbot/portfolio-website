@@ -1,0 +1,17 @@
+page_title: Remote Vision Control
+
+page_description: remote-control pan-tilt stand + software
+
+title: Remote Vision Control
+
+date: Feb 2003 - Apr 2003
+
+content:
+<p>
+Webcams are good for conversations, but they don't offer either conversant any control over the field of view.  To remedy this glaring oversight, I built a pan/tilt base for my webcam out of LEGO bricks.  The person I was talking to on the other end could log into a webpage and press buttons to move the camera up/down or left/right!
+</p>
+<p>
+The client webpage had a simple java applet on it that sent commands back to a server I hosted on my computer.  This was built on top of my Jackal software, which lets you remotely program a cricket or LEGO Mindstorms attached to a computer.
+</p>
+
+keywords: java , lego , robotics , software

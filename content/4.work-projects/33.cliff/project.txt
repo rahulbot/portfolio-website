@@ -1,0 +1,20 @@
+page_title: CLIFF
+
+page_description: Entity Extraction and Geoparsing for News Articles
+
+title: CLIFF
+
+date: Jul 2013 - present
+
+content:
+<p>
+CLIFF parses news articles and pulls out people, organizations and places mentioned. A number of tools do this, so why did we create CLIFF? We've built on those tools to add disambiguation tailored to the ways news articles are written, and a concept of "focus" that tries to get at what place an article is really about (as opposed to all the places it mentions). We wrote CLIFF to help drive our MediaMeter suite of tools, but are sharing it in hopes that others find it useful.
+</p>
+<p>
+<a href="http://cliff.mediameter.org">http://cliff.mediameter.org</a>
+</p>
+<p>
+We presented a paper at the KDD-News 2014 conference: <a href="/collateral/newskdd2014_submission_10.pdf">CLIFF-CLAVIN: Determining Geographic Focus for News Articles</a>
+</p>
+
+keywords: world cup, data , census , geolocation , flask , python , javascript

@@ -1,0 +1,14 @@
+page_title: Brazilian Educational Robotics
+
+page_description: teacher and student workshops
+
+title: Brazilian Educational Robotics
+
+date: Jul 2002
+
+content:
+<p>
+I worked with the Department of Education in Curituba Brazil to conduct workshops with teachers about integrating the LEGO robotics system into their curriculum.  My first visit was part of a large gathering organized by the MIT Media Lab.  I returned for a smaller training seminar.  During both visits I worked with teachers and students from around the city to introduce the technology, combine it with local materials, and facilitate discussions about robotics as an education tool.
+</p>
+
+keywords: education , lego , robotics , workshop

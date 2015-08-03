@@ -1,0 +1,19 @@
+page_title: Designing Tools and Activities for Data Literacy Learners
+
+page_description: academic paper
+
+title: Laser Designing Tools and Activities for Data Literacy Learners
+
+date: June 2015
+
+content:
+<p>
+I co-authored a paper with Catherine D'Ignazio for the Data Literacy workshop at the WebScience 2015 conference.  Here's the abstract:
+<p>
+Data-centric thinking is rapidly becoming vital to the way we work, communicate and understand in the 21st century. This has led to a proliferation of tools for novices that help them operate on data to clean, process, aggregate, and vi- sualize it. Unfortunately, these tools have been designed to support users rather than learners that are trying to develop strong data literacy. This paper outlines a basic definition of data literacy and uses it to analyze the tools in this space. Based on this analysis, we propose a set of pedagogical design principles to guide the development of tools and activities that help learners build data literacy. We outline a rationale for these tools to be strongly focused, well guided, very inviting, and highly expandable. Based on these principles, we offer an example of a tool and accom- panying activity that we created. Reviewing the tool as a case study, we outline design decisions that align it with our pedagogy. Discussing the activity that we led in aca- demic classroom settings with undergraduate and graduate students, we show how the sketches students created while using the tool reflect their adeptness with key data literacy skills based on our definition. With these early results in mind, we suggest that to better support the growing num- ber of people learning to read and speak with data, tool de- signers and educators must design from the start with these strong pedagogical principles in mind.
+</p>
+<p>
+You can <a href="/collateral/Data_Literacy_Workshop_Paper.pdf">read the full paper</a>.
+</p>
+
+keywords: data literacy, academic paper

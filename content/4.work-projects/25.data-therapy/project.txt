@@ -1,0 +1,23 @@
+page_title: Data Therapy
+
+page_description: building capacity to creatively present data
+
+title: Data Therapy
+
+date: July 2011 - present
+
+content:
+<p>
+<b><a href="http://datatherapy.org/">Read the Data Therapy blog</a></b>.
+</p>
+<p>
+Continuing my <a href="/personal-projects/got-data/">Got Data</a>, I'm holding workshops and writing a blog for the <a href="http://civic.mit.edu/">MIT Center for Civic Media</a>.   
+</p>
+<p>
+There is much talk right now about how we live in a time of data and visualization.  There are lots of pretty pictures generated everyday by amazing coders, statistics gurus, and so on.  Then there are normal people. Normal people aren't statisticians, software developers, or graphic design experts. Normal people don't have a big budget to pay lots of data consultants. Normal people in regular jobs have data that they know can help them, and they want to use it.  Normal people need Data Therapy.
+</p>
+<p>
+<b><a href="http://datatherapy.org/">Read the Data Therapy blog</a></b>.
+</p>
+
+keywords: education , presentation , visualization , workshop , writing, civic media

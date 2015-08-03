@@ -1,0 +1,17 @@
+page_title: ImagineWords
+
+page_description: write a story by replacing words with images
+
+title: ImagineWords
+
+date: Jan 2009 - present
+
+content:
+<p>
+Try ImagineWords online at <a href="http://www.imaginewords.com/">www.imaginewords.com</a>
+</p>
+<p>
+ImagineWords lets you write short stories and then click on any of the words to replace them with images from public image-sharing websites.  You can use it to create and share these stories, called rebuses.  ImagineWords was originally conceived as a downloadable java application, but recently I recreated it as a web-based mashup.
+</p>
+
+keywords: education , java , javascript , mashup , mysql , php , ruby-on-rails , software , website

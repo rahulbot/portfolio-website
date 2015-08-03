@@ -1,0 +1,17 @@
+page_title: Underwired
+
+page_description: touch-sensitive light-up bra, for charity
+
+title: Underwired
+
+date: Oct 2005
+
+content:
+<p>
+UnderWired was our submission to the 2005 <a href="http://www.showusyourbra.org/">Show Us Your Bra auction/contest</a>. The idea is simple - you cup your hand over one of the cups of the bra, and it lights up!  It is built with a bra, a capacitive sensing chip, and some electro-luminescent wire.
+</p>
+<p>
+Created with help from <a href="http://www.glassandlead.com/">Emily Bhargava</a>.
+</p>
+
+keywords: art , c , hardware , pic-micro

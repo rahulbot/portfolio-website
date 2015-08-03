@@ -1,0 +1,14 @@
+page_title: Data Murals
+
+page_description: turning data stories into community murals
+
+title: Data Murals
+
+date: Jul 2012 - present
+
+content:
+<p>
+I have been collaborating with my wife Emily to help groups turn their data stories into community murals.  We facilitate groups finding a story in their data that they want to tell, collaboratively creating a visual that tells that story, and then painting it as a mural!  Our goals are to both build their capacity to creatively tell their data stories, and to help them do their work more effectively.  Find out more <a href="https://connectionlab.wordpress.com/category/data-mural/">on the blog</a>.
+</p>
+
+keywords: civic media , public art , data

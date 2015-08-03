@@ -1,0 +1,12 @@
+page_title: TalkingWall
+
+page_description: real-time twitter visualization
+
+title: TalkingWall
+
+date: Feb 2008 - Apr 2008
+
+content:
+The TalkingWall is a real time visualization of Twitter posts created for the launch of my brother's <a href="http://www.personalitynotincluded.com/">Personality Not Included</a> book. Messages from Twitter users online during the party flew onto the projected visualization on two walls of the space. This project was an attempt to successfully integrated the pre-existing online community into the local space of the party to create buzz about the book.
+
+keywords: flash , mashup , mysql , php , software , visualization

@@ -1,0 +1,20 @@
+page_title: Got Data?
+
+page_description: community talk about how to engagingly present data
+
+title: Got Data?
+
+date: Jul 2007, May 2010, Apr 2011
+
+content:
+<p>
+I have co-facilitated a few workshops for community coalition members on how to present data to their community, funders, and other audiences.  My primary focus has been on how to structure a data-driven argument that balances quantitative and qualitative data sources. These workshops were hosted at the <a href="http://www.healthier-communities.org/">Metrowest Regional Center for Healthy Communities</a>.
+</p>
+<p>
+You can download some of my handouts:
+- <a href="/collateral/data-workflow.pdf">A workflow to help you work through coming up with your presentation</a>
+- <a href="/collateral/data-goals.pdf">A list of potential goals for presenting your data</a>
+- <a href="/collateral/data-techniques.pdf">A list of examples for each technique we discussed</a>
+</p>
+
+keywords: education , presentation , visualization , workshop , writing

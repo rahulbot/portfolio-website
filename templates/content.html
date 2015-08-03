@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>@page_title</title>
+		<meta name="description" content="@page_description">
+		<link rel="stylesheet" href="@Site_Root/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container" class="col twelve">
+
+      <div id="header" class="col twelve">
+      	<h1 class="col three">
+      		<a href="@Site_Root">@name</a>
+      		<strong>@profession</strong>
+      	</h1>
+      	<em class="col three">@email</em>			
+        @Navigation
+      </div>
+      <hr>
+
+			<div id="content" class="col eight">
+				<p class="date col one">&para;</p>
+				<div class="description col six">
+					<h2 class="col six">@title</h2>
+					@Images
+					@content
+				</div>
+			</div>
+
+      <hr>      
+      <p id="footer" class="col six">&copy; Copyright @name @Year<br>
+      <em>Content managed by <a href="http://www.staceyapp.com">stacey</a></em></p>
+
+		</div>
+	</body>
+
+  <!-- analytics -->
+  <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+  try {
+  var pageTracker = _gat._getTracker("UA-6925212-3");
+  pageTracker._trackPageview();
+  } catch(err) {}</script>
+
+</html>

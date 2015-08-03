@@ -1,0 +1,20 @@
+page_title: Invention at Play
+
+page_description: museum interactives and documentation
+
+title: Invention at Play
+
+date: Sep 2002
+
+content:
+<p>
+I worked with a team to develop on-the-floor museum interactives and supporting documentation for the <a href="http://www.inventionatplay.org/">Invention at Play</a> traveling exhibit. The exhibit and the interactives are scheduled to tour the US through 2005.
+</p>
+<p>
+We tested out new computation-based activities developed by others in the Playful Invention and Exploration Network, adapting them to relate to the core message of the exhibit. This involved programs with the public at the <a href="http://americanhistory.si.edu/">National Museum of American History</a>. We set up small tables in the main hall and chatted with whoever stopped by!
+</p>
+<p>
+The preliminary documentation I produced describes a set of small interactive devices and discusses possible activities they support. It suggests approaches, but leaves space for individual museums to tailor the ideas to their specific space. 
+</p>
+
+keywords: education , lego , robotics , workshop , writing

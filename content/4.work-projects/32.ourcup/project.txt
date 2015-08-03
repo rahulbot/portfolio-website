@@ -1,0 +1,20 @@
+page_title: OurCup.info
+
+page_description: world cup recommendations based on where you live
+
+title: Our Cup
+
+date: Jun 2014 - Jul 2014
+
+content:
+<p>
+<a href="http://ourcup.info">OurCup.info</a> asks you where you live and then suggests the World Cup games you should watch based on who lives in your neighborhood, and where they are from.
+</p>
+<p>
+The World Cup brings people from different cultures together like no other global event. The US isn't a nation of soccer fans, but it is a nation of immigrants from around the globe. So use this website to pick a game, find a pub, and make some new friends!
+</p>
+<p>
+<a href="http://ourcup.info">http://ourcup.info</a>
+</p>
+
+keywords: world cup, data , census , geolocation , flask , python , javascript

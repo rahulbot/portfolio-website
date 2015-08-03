@@ -1,0 +1,14 @@
+page_title: Sasaki Capital Planner / Scheduler
+
+page_description: decision support visualizations
+
+title: Sasaki Capital Planner / Scheduler
+
+date: Jul 2009 - Oct 2009
+
+content:
+<p>
+I modified and extended a tool Sasaki created for a client to prioritize and schedule building expenditures.  The tool imports properties about projects, lets the user create scenarios based on relative weightings, and then allows them to lay out the building projects on a timeline and see potential budget impacts.
+</p>
+
+keywords: C# , flash
