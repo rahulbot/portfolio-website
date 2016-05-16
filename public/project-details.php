@@ -12,7 +12,7 @@ if($projectId==null){
 
 define("BASE","http://www.rahulbotics.com/personal-projects/");
 if($projectId==12) {
-	header( 'Location: '.BASE."boxmaker" ) ;
+	header( 'Location: '.BASE."boxdesigner" ) ;
 	exit();
 } else if($projectId==5) {
 	header( 'Location: '.BASE."exif-o-matic" ) ;

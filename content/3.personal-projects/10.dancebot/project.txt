@@ -11,7 +11,7 @@ content:
 Following up on my now-broken CD.Bot, I created a Dance.Bot to rock to the rhythm. This little yellow guy is similar in construction to his larger cousin, but as his name indicates, he dances. He started out fairly simple, just moving along at his own beat. Later I added a distance sensor in his head so he only  starts dancing when someone moves up to him!
 </p>
 <p>
-Take a look at the photos to see inside - it all runs off of one LEGO motor, gearing out to the two arms and the head. There is a light sensor on each shoulder, pointing up, to detect when his head is aligned with his body (I put black electrical tape on the bottom of his head to help account for varying ambient light conditions). The computational control is hiding in his leg. His body is made of bright yellow 3/8" acrylic (designed with my BoxMaker software).
+Take a look at the photos to see inside - it all runs off of one LEGO motor, gearing out to the two arms and the head. There is a light sensor on each shoulder, pointing up, to detect when his head is aligned with his body (I put black electrical tape on the bottom of his head to help account for varying ambient light conditions). The computational control is hiding in his leg. His body is made of bright yellow 3/8" acrylic (designed with my box designer software).
 </p>
 <p>
 Just another robot to decorate the house with.  Watch a short movie of him dancing (before I added the distance sensor):
