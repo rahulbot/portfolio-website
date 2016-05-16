@@ -1,4 +1,4 @@
-page_title: Rahulbotics: Personal Projects
+page_title: Rahul Bhargava: Personal Projects
 
 page_description: Personal Projects
 

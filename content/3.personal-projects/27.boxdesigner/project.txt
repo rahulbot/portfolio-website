@@ -8,7 +8,7 @@ date: Mar 2001 - present
 
 content:
 <p>
-<b>Box Designer is now online! Check out <a href="http://boxdesigner.rahulbotics.com/">http://boxdesigner.rahulbotics.com/</a></b>
+<b>Box Designer is now online! Check out <a href="http://boxdesigner.connectionlab.org/">http://boxdesigner.connectionlab.org/</a></b>
 </p>
 <p>
 Box Designer is a little app that can generate the outlines for a box to be out of some material with a cutting device (ideally using wood/acrylic on a lasercutter!). You tell it the dimensions of the box (width, height, depth, material width), and it generates a PDF with the outlines for the 6 sides of the box. The dimensions are the outside lengths of the box.  <a href="/collateral/mybox.pdf">Here's an example of the type of PDF file it outputs</a>.

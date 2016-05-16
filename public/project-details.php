@@ -10,7 +10,7 @@ if($projectId==null){
 	exit();
 }
 
-define("BASE","http://www.rahulbotics.com/personal-projects/");
+define("BASE","http://rahul.connectionlab.org/personal-projects/");
 if($projectId==12) {
 	header( 'Location: '.BASE."boxdesigner" ) ;
 	exit();

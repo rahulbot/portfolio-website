@@ -1,5 +1,5 @@
-page_title: Rahulbotics
+page_title: Rahul Bhargava
 
-page_description: technology, design & art by rahul bhargava
+page_description: technology, design & art
 
 content:
